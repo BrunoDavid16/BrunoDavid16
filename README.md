@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrunoDavid16
+- 👋 Hi, I’m Bruno David Ribeiro de Souza
 - 👀 I’m interested in Front end developer
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I'm looking to collaborate in a successful company in this area 
