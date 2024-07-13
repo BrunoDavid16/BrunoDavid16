@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrunoDavid16
 - 👀 I’m interested in Front end developer
 - 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on 
+- 💞️ I'm looking to collaborate in a successful company in this area 
 - 📫 How to reach me: Email: brunodavidribeirodesouza@gmail.com CEL: +55 (11)94372-1932 LinkedIn:https://www.linkedin.com/in/brunodavidsz/ 
 
 
